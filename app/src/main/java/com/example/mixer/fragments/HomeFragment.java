@@ -62,7 +62,7 @@ public class HomeFragment extends Fragment {
     public static final String RANDOM_DRINK_URL = "https://www.thecocktaildb.com/api/json/v1/1/random.php"; // Create string to hold http for API request
     public static final String TAG = "HomeFragment";    // Create a tag for logging this activity
     public static int numDrinks = 15;
-    public static int refreshCounter = 0;
+    public static int refreshCounter = 2;
 
     private DrinkAdapter drinkAdapter;
 
