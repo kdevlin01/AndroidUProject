@@ -194,7 +194,7 @@ public class HomeFragment extends Fragment {
 
         AdRequest adRequest = new AdRequest.Builder().build();
 
-        InterstitialAd.load(getContext(),"ca-app-pub-3940256099942544/1033173712", adRequest,
+        InterstitialAd.load(getContext(),"ca-app-pub-2454389555861292/6333761831", adRequest,
                 new InterstitialAdLoadCallback() {
                     @Override
                     public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {
