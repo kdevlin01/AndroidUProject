@@ -1,4 +1,4 @@
-package com.example.mixer;
+package cocktail.app.mixer;
 
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.LinearLayoutManager;

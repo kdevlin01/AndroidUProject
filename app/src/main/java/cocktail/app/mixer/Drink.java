@@ -1,9 +1,6 @@
-package com.example.mixer;
+package cocktail.app.mixer;
 
 import android.util.Log;
-
-import com.like.LikeButton;
-import com.parse.ParseUser;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -12,7 +9,6 @@ import org.parceler.Parcel;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 
 @Parcel // To make Drink object parceable

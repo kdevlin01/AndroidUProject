@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/dark1"
-    tools:context=".fragments.SearchFragment">
+    tools:context="cocktail.app.mixer.fragments.SearchFragment">
 
     <SearchView
         android:id="@+id/search_bar"

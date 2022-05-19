@@ -1,4 +1,4 @@
-package com.example.mixer;
+package cocktail.app.mixer;
 
 import android.app.Application;
 

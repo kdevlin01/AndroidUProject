@@ -1,4 +1,4 @@
-package com.example.mixer;
+package cocktail.app.mixer;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,9 +11,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
-import com.codepath.asynchttpclient.AsyncHttpClient;
-import com.example.mixer.adapters.DrinkAdapter;
-import com.example.mixer.fragments.FavoritesFragment;
+import com.example.mixer.R;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;

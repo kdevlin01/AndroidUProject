@@ -7,7 +7,7 @@
 
 
     <application
-        android:name=".ParseApplication"
+        android:name="cocktail.app.mixer.ParseApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_cocktail_icon_2"
         android:label="@string/app_name"
@@ -20,13 +20,13 @@
             android:value= "ca-app-pub-2454389555861292~2729596732" />
 
         <activity
-            android:name=".DetailActivity"
+            android:name="cocktail.app.mixer.DetailActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="cocktail.app.mixer.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginActivity"
+            android:name="cocktail.app.mixer.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

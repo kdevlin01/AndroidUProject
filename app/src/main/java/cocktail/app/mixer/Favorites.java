@@ -1,7 +1,6 @@
-package com.example.mixer;
+package cocktail.app.mixer;
 
 import com.parse.ParseClassName;
-import com.parse.ParseFile;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 

@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/dark1"
-    tools:context=".LoginActivity">
+    tools:context="cocktail.app.mixer.LoginActivity">
 
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"

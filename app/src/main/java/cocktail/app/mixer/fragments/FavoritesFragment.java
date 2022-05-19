@@ -1,27 +1,21 @@
-package com.example.mixer.fragments;
+package cocktail.app.mixer.fragments;
 
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentTransaction;
-import androidx.recyclerview.widget.RecyclerView;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
 
 import com.codepath.asynchttpclient.AsyncHttpClient;
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler;
-import com.example.mixer.DetailActivity;
-import com.example.mixer.Drink;
-import com.example.mixer.Favorites;
-import com.example.mixer.R;
-import com.example.mixer.adapters.DrinkAdapter;
-import com.like.LikeButton;
+import cocktail.app.mixer.DetailActivity;
+import cocktail.app.mixer.Drink;
+import cocktail.app.mixer.Favorites;
+import cocktail.app.mixer.adapters.DrinkAdapter;
 import com.parse.FindCallback;
 import com.parse.ParseException;
 import com.parse.ParseQuery;
@@ -31,7 +25,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;

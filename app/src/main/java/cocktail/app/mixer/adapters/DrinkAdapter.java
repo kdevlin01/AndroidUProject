@@ -1,4 +1,4 @@
-package com.example.mixer.adapters;
+package cocktail.app.mixer.adapters;
 
 import android.app.Activity;
 import android.content.Context;
@@ -16,20 +16,14 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.core.app.ActivityOptionsCompat;
-import androidx.recyclerview.widget.DiffUtil;
 import androidx.recyclerview.widget.RecyclerView;
-import androidx.room.Delete;
 
 import com.bumptech.glide.Glide;
-import com.example.mixer.DetailActivity;
-import com.example.mixer.Drink;
-import com.example.mixer.DrinkDiffUtilCallback;
-import com.example.mixer.Favorites;
-import com.example.mixer.LoginActivity;
-import com.example.mixer.MainActivity;
+import cocktail.app.mixer.DetailActivity;
+import cocktail.app.mixer.Drink;
+import cocktail.app.mixer.Favorites;
+import cocktail.app.mixer.MainActivity;
 import com.example.mixer.R;
-import com.example.mixer.fragments.FavoritesFragment;
-import com.example.mixer.fragments.HomeFragment;
 import com.google.android.material.snackbar.Snackbar;
 import com.like.LikeButton;
 import com.like.OnLikeListener;
@@ -43,7 +37,6 @@ import com.parse.SaveCallback;
 
 import org.parceler.Parcels;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
