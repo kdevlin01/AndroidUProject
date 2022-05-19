@@ -23,7 +23,7 @@ import cocktail.app.mixer.DetailActivity;
 import cocktail.app.mixer.Drink;
 import cocktail.app.mixer.Favorites;
 import cocktail.app.mixer.MainActivity;
-import com.example.mixer.R;
+import cocktail.app.mixer.R;
 import com.google.android.material.snackbar.Snackbar;
 import com.like.LikeButton;
 import com.like.OnLikeListener;

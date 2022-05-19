@@ -13,7 +13,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
-import com.example.mixer.R;
+import cocktail.app.mixer.R;
 
 import cocktail.app.mixer.fragments.FavoritesFragment;
 import cocktail.app.mixer.fragments.HomeFragment;

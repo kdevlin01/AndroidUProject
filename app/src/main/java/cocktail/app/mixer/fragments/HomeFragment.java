@@ -18,7 +18,7 @@ import com.codepath.asynchttpclient.AsyncHttpClient;
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler;
 import cocktail.app.mixer.DetailActivity;
 import cocktail.app.mixer.Drink;
-import com.example.mixer.R;
+import cocktail.app.mixer.R;
 import cocktail.app.mixer.adapters.DrinkAdapter;
 import com.google.android.gms.ads.AdError;
 import com.google.android.gms.ads.AdRequest;
