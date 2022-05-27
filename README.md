@@ -91,7 +91,7 @@ Contributer: **John Sena Akoto**, **Karl Devlin**
    * Stream
 
 ## Wireframes
-<img src=Wireframes.png width=600>
+<img src=Photos/Wireframes.png width=600>
 
 ## Schema 
 [This section will be completed in Unit 9]
@@ -139,7 +139,7 @@ query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Photos/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
