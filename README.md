@@ -109,7 +109,7 @@ Contributer: **John Sena Akoto**, **Karl Devlin**
 | Favorite |	Boolean	| True if cocktail is a favorite |
 ### Networking
 - Stream Screen
-  - (Read/Get) Get all 10 random cocktails from API
+  - (Read/Get) Get all 15 random cocktails from API
   - Create/POST) Create a new like on a cocktail
   - (Delete) Delete existing like
 - Favorites Screen
