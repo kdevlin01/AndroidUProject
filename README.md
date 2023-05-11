@@ -139,7 +139,7 @@ query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Photos/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Photos/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
